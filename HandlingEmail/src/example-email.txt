@@ -1,0 +1,6 @@
+From: eddie.valv@gmail.com
+To: cynthiavip@gmail.com
+Subject: I love you =D
+
+
+This email was sent using Python's smtplib!
